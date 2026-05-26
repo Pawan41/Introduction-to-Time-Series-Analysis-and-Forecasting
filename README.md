@@ -107,8 +107,8 @@ The project uses real-world stock market data and applies statistical methods to
 Clone the repository:
 
 ```bash
-git clone https://github.com/Pawan41/Introduction-to-Time-Series-Analysis-and-Forecasting
-cd time-series-analysis
+git clone https://github.com/Pawan41/Introduction-to-Time-Series-Analysis-and-Forecasting.git
+cd Introduction-to-Time-Series-Analysis-and-Forecasting
 ```
 
 Install dependencies:
